@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "laravel-mix": "^6.0.28",
+    "postcss-import": "^14.0.2",
+    "tailwindcss": "^2.2.7",
+    "webpack": "^5.51.1"
+  },
+  "scripts": {
+    "dev": "mix",
+    "prod": "mix --production"
+  }
+}
